@@ -1,0 +1,12 @@
+{
+  "name": "react-native-redux-testing",
+  "displayName": "react-native-redux-testing",
+  "expo": {
+    "name": "react-native-redux-testing",
+    "slug": "react-native-redux-testing",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
